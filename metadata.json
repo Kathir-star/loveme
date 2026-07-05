@@ -1,0 +1,6 @@
+{
+  "name": "AI Style Studio",
+  "description": "Personalized fashion styling app with AI face analysis, customized outfit recommendations, and an interactive virtual styling overlay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

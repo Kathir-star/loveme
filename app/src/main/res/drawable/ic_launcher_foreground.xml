@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center AI Sparkle star -->
+    <path
+        android:fillColor="#D6BBFF"
+        android:pathData="M54,16 L57,30 L71,33 L57,36 L54,50 L51,36 L37,33 L51,30 Z" />
+    
+    <!-- Left Lens frame -->
+    <path
+        android:strokeWidth="4"
+        android:strokeColor="#9EAEFF"
+        android:fillColor="#22D6BBFF"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:pathData="M25,65 C25,76 39,76 39,65 C39,54 25,54 25,65 Z" />
+
+    <!-- Right Lens frame -->
+    <path
+        android:strokeWidth="4"
+        android:strokeColor="#9EAEFF"
+        android:fillColor="#22D6BBFF"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:pathData="M69,65 C69,76 83,76 83,65 C83,54 69,54 69,65 Z" />
+
+    <!-- Metal Frame Bridge -->
+    <path
+        android:strokeWidth="4"
+        android:strokeColor="#86E3CE"
+        android:strokeLineCap="round"
+        android:pathData="M39,63 C46,58 62,58 69,63" />
+
+    <!-- Frame Temples extending out -->
+    <path
+        android:strokeWidth="3.5"
+        android:strokeColor="#9EAEFF"
+        android:strokeLineCap="round"
+        android:pathData="M25,61 L14,56" />
+    <path
+        android:strokeWidth="3.5"
+        android:strokeColor="#9EAEFF"
+        android:strokeLineCap="round"
+        android:pathData="M83,61 L94,56" />
+</vector>
